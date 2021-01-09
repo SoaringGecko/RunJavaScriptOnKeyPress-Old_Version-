@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/png" href="/RunJavaScriptOnKeyPress/one-keyboard-js.png">
 <link rel="stylesheet" href="/RunJavaScriptOnKeyPress/assets/css/style.css?v=45e0bbafbd04e5eb3875e817bff9edf41552c081">
-<link rel="stylesheet" href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress/highlight.css">
+<link rel="stylesheet" href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress-Old_Version-/highlight.css">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link href="/RunJavaScriptOnKeyPress/highlight.css" rel="stylesheet" type="text/css" />
 
@@ -44,4 +44,4 @@ window.onkeypress = function(event) {
 <p><a href="http://jsonkeypress.rf.gd/a">JsOnKeyPress.rf.gd/[insert any letter here]</a> --- redirects to the Repository</p>
 
 # All the letters
-If you want, the code for every letter can be found <a href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress/all-the-letters.html">here</a>
+If you want, the code for every letter can be found <a href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress-Old_Version-/all-the-letters.html">here</a>
