@@ -15,7 +15,7 @@
 <p>I was tired of doing it myself</p>
 
 # How do I use it?
-<p>If you want to use this just go <a href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress/Pages/">here</a> and follow the instructions</p>
+<p>If you want to use this just go <a href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress-Old_Version-/Pages/">here</a> and follow the instructions</p>
 <p>If there is a key you want to use like <b>Caps Lock</b> that doesn't show up when pressed <a href="https://wangchujiang.com/hotkeys/">this</a> may be helpful</p> 
 
 # Updates
