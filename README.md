@@ -39,9 +39,5 @@ window.onkeypress = function(event) {
 # What kind of improvements are you planning on making?
 <p>Not sure yet</p>
 
-# Redirects
-<p><a href="http://jsonkeypress.rf.gd/">JsOnKeyPress.rf.gd</a> redirects to the page used to generate the script</p>
-<p><a href="http://jsonkeypress.rf.gd/a">JsOnKeyPress.rf.gd/[insert any letter here]</a> --- redirects to the Repository</p>
-
 # All the letters
 If you want, the code for every letter can be found <a href="https://soaringgecko.github.io/RunJavaScriptOnKeyPress-Old_Version-/all-the-letters.html">here</a>
